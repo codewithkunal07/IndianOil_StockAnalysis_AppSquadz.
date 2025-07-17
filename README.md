@@ -25,12 +25,11 @@ To explore financial data analytics, practice dashboard storytelling, and enhanc
 ---
 
 ## 📁 Repository Structure
-```
 📂 IndianOil_Stock_Analysis
-├── 📄 iocll.pdf           → Final Dashboard Export  
-├── 📄 README.md           → Project Overview  
-├── 📊 Power BI Dashboard  → Visual insights
-```
+├── 📄 IndianOil_StockAnalysis_AppSquadz.pdf    → Final Dashboard Export with visual breakdowns
+├── 📄 README.md                                → Project overview and insights summary
+├── 📊 Indian Oil Data (2).csv                  → Historical stock data used for analysis
+├── 🖼️ Indian_Oil_Corporation-Logo.wine         → Official IndianOil logo for visual branding
 
 ---
 
