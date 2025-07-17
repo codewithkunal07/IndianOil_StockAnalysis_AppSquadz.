@@ -20,16 +20,16 @@ This Power BI dashboard provides an insightful analysis of IndianOil stock trend
 ---
 
 ## 🚀 Purpose
-To explore financial data analytics, practice dashboard storytelling, and enhance practical skills in a real-world internship setting
+To explore financial data analytics, practice dashboard storytelling, and enhance practical skills in a real-world internship setting.
 
 ---
 
 ## 📁 Repository Structure
-📂 IndianOil_Stock_Analysis
-├── 📄 IndianOil_StockAnalysis_AppSquadz.pdf    → Final Dashboard Export with visual breakdowns
-├── 📄 README.md                                → Project overview and insights summary
-├── 📊 Indian Oil Data (2).csv                  → Historical stock data used for analysis
-├── 🖼️ Indian_Oil_Corporation-Logo.wine         → Official IndianOil logo for visual branding
+
+- `IndianOil_StockAnalysis_AppSquadz.pdf` → Final Dashboard Export with visual breakdowns  
+- `Indian Oil Data (2).csv` → Historical stock data used for analysis  
+- `Indian_Oil_Corporation-Logo.wine` → Official IndianOil logo for visual branding  
+- `README.md` → Project overview and insights summary
 
 ---
 
@@ -38,5 +38,5 @@ Feel free to explore the dashboard and share your thoughts!
 📧 ds.kunal.rajput@gmail.com  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/kunal-93a776349/)  
 🐙 [GitHub Profile](https://github.com/codewithkunal07)
-
+```
 
