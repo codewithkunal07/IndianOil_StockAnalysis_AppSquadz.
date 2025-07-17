@@ -20,7 +20,7 @@ This Power BI dashboard provides an insightful analysis of IndianOil stock trend
 ---
 
 ## 🚀 Purpose
-To explore financial data analytics, practice dashboard storytelling, and enhance practical skills in a real-world internship setting.
+To explore financial data analytics, practice dashboard storytelling, and enhance practical skills in a real-world internship setting
 
 ---
 
